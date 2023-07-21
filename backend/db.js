@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect("mongodb+srv://mif:mif123$@mycluster.rgua6lf.mongodb.net/db_buku", {
+mongoose.connect("mongodb+srv://mif:yourdatabasemongodb", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
